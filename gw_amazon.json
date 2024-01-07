@@ -1,0 +1,342 @@
+{
+    "Al_Manama": {
+        "longitude": 50.583,
+        "latitude": 26.236
+    },
+    "Amsterdam": {
+        "longitude": 4.917,
+        "latitude": 52.35
+    },
+    "Ashburn": {
+        "longitude": -77.487,
+        "latitude": 39.044
+    },
+    "Athens": {
+        "longitude": 23.733,
+        "latitude": 37.983
+    },
+    "Atlanta": {
+        "longitude": -84.388,
+        "latitude": 33.749
+    },
+    "Bangalore": {
+        "longitude": 77.583,
+        "latitude": 12.983
+    },
+    "Beijing": {
+        "longitude": 116.388,
+        "latitude": 39.929
+    },
+    "Berlin": {
+        "longitude": 10.45,
+        "latitude": 54.033
+    },
+    "Bogota": {
+        "longitude": -75.283,
+        "latitude": 10.4
+    },
+    "Boston": {
+        "longitude": -71.06,
+        "latitude": 42.358
+    },
+    "Brussels": {
+        "longitude": 4.333,
+        "latitude": 50.833
+    },
+    "Bucharest": {
+        "longitude": 26.1,
+        "latitude": 44.433
+    },
+    "Budapest": {
+        "longitude": 19.083,
+        "latitude": 47.5
+    },
+    "Buenos_Aires": {
+        "longitude": -58.672,
+        "latitude": -34.587
+    },
+    "Cape_Town": {
+        "longitude": 18.417,
+        "latitude": -33.917
+    },
+    "Chennai": {
+        "longitude": 80.283,
+        "latitude": 13.083
+    },
+    "Chicago": {
+        "longitude": -87.65,
+        "latitude": 41.85
+    },
+    "Copenhagen": {
+        "longitude": 12.583,
+        "latitude": 55.667
+    },
+    "Denver": {
+        "longitude": -104.985,
+        "latitude": 39.739
+    },
+    "Dubai": {
+        "longitude": 55.28,
+        "latitude": 25.252
+    },
+    "Dublin": {
+        "longitude": -6.249,
+        "latitude": 53.333
+    },
+    "Dusseldorf": {
+        "longitude": 6.767,
+        "latitude": 51.217
+    },
+    "Fort_Worth": {
+        "longitude": -97.321,
+        "latitude": 32.725
+    },
+    "Frankfurt": {
+        "longitude": 14.55,
+        "latitude": 52.35
+    },
+    "Fujairah": {
+        "longitude": 56.337,
+        "latitude": 25.123
+    },
+    "Hamburg": {
+        "longitude": 10.0,
+        "latitude": 53.55
+    },
+    "Hayward": {
+        "longitude": -120.371,
+        "latitude": 37.643
+    },
+    "Helsinki": {
+        "longitude": 21.433,
+        "latitude": 60.6
+    },
+    "Hillsboro": {
+        "longitude": -122.99,
+        "latitude": 45.523
+    },
+    "Houston": {
+        "longitude": -95.363,
+        "latitude": 29.763
+    },
+    "Hyderabad": {
+        "longitude": 78.474,
+        "latitude": 17.375
+    },
+    "Jacksonville": {
+        "longitude": -81.656,
+        "latitude": 30.332
+    },
+    "Johannesburg": {
+        "longitude": 28.083,
+        "latitude": -26.2
+    },
+    "Kolkata": {
+        "longitude": 88.37,
+        "latitude": 22.57
+    },
+    "Kuala_Lumpur": {
+        "longitude": 101.7,
+        "latitude": 3.167
+    },
+    "Lisbon": {
+        "longitude": -9.133,
+        "latitude": 38.717
+    },
+    "London": {
+        "longitude": -0.117,
+        "latitude": 51.5
+    },
+    "Los_Angeles": {
+        "longitude": -118.244,
+        "latitude": 34.052
+    },
+    "Madrid": {
+        "longitude": -3.683,
+        "latitude": 40.4
+    },
+    "Manchester": {
+        "longitude": -2.217,
+        "latitude": 53.5
+    },
+    "Manila": {
+        "longitude": 120.982,
+        "latitude": 14.604
+    },
+    "Marseille": {
+        "longitude": 5.4,
+        "latitude": 43.3
+    },
+    "Melbourne": {
+        "longitude": 144.967,
+        "latitude": -37.817
+    },
+    "Miami": {
+        "longitude": -80.194,
+        "latitude": 25.774
+    },
+    "Milan": {
+        "longitude": 9.2,
+        "latitude": 45.467
+    },
+    "Minneapolis": {
+        "longitude": -93.264,
+        "latitude": 44.98
+    },
+    "Montreal": {
+        "longitude": -73.583,
+        "latitude": 45.5
+    },
+    "Mumbai": {
+        "longitude": 72.826,
+        "latitude": 18.975
+    },
+    "Munich": {
+        "longitude": 11.583,
+        "latitude": 48.15
+    },
+    "Nairobi": {
+        "longitude": 36.817,
+        "latitude": -1.283
+    },
+    "New_Delhi": {
+        "longitude": 77.2,
+        "latitude": 28.6
+    },
+    "New_York": {
+        "longitude": -74.006,
+        "latitude": 40.714
+    },
+    "Newark": {
+        "longitude": -74.172,
+        "latitude": 40.736
+    },
+    "Osaka": {
+        "longitude": 135.5,
+        "latitude": 34.667
+    },
+    "Oslo": {
+        "longitude": 10.75,
+        "latitude": 59.917
+    },
+    "Palermo": {
+        "longitude": 13.367,
+        "latitude": 38.117
+    },
+    "Palo_Alto": {
+        "longitude": -122.143,
+        "latitude": 37.442
+    },
+    "Paris": {
+        "longitude": 2.333,
+        "latitude": 48.867
+    },
+    "Perth": {
+        "longitude": 147.167,
+        "latitude": -41.567
+    },
+    "Philadelphia": {
+        "longitude": -75.164,
+        "latitude": 39.952
+    },
+    "Phoenix": {
+        "longitude": -112.074,
+        "latitude": 33.448
+    },
+    "Prague": {
+        "longitude": 14.467,
+        "latitude": 50.083
+    },
+    "Rio_De_Janeiro": {
+        "longitude": -43.233,
+        "latitude": -22.9
+    },
+    "Rome": {
+        "longitude": 12.483,
+        "latitude": 41.9
+    },
+    "Salt_Lake_City": {
+        "longitude": -111.891,
+        "latitude": 40.761
+    },
+    "San_Jose": {
+        "longitude": -121.895,
+        "latitude": 37.339
+    },
+    "Santiago": {
+        "longitude": -70.667,
+        "latitude": -33.45
+    },
+    "Sao_Paulo": {
+        "longitude": -46.617,
+        "latitude": -23.533
+    },
+    "Seattle": {
+        "longitude": -122.332,
+        "latitude": 47.606
+    },
+    "Seoul": {
+        "longitude": 126.978,
+        "latitude": 37.599
+    },
+    "Sha_Tin": {
+        "longitude": 114.183,
+        "latitude": 22.383
+    },
+    "Shanghai": {
+        "longitude": 121.368,
+        "latitude": 31.109
+    },
+    "Shenzhen": {
+        "longitude": 111.112,
+        "latitude": 22.185
+    },
+    "Singapore": {
+        "longitude": 103.856,
+        "latitude": 1.293
+    },
+    "Sofia": {
+        "longitude": 23.317,
+        "latitude": 42.683
+    },
+    "Stockholm": {
+        "longitude": 13.75,
+        "latitude": 61.883
+    },
+    "Sydney": {
+        "longitude": 151.217,
+        "latitude": -33.883
+    },
+    "Taipei": {
+        "longitude": 121.532,
+        "latitude": 25.048
+    },
+    "Tel_Aviv": {
+        "longitude": 34.767,
+        "latitude": 32.067
+    },
+    "Tokyo": {
+        "longitude": 139.751,
+        "latitude": 35.685
+    },
+    "Toronto": {
+        "longitude": -79.417,
+        "latitude": 43.667
+    },
+    "Vienna": {
+        "longitude": 16.367,
+        "latitude": 48.2
+    },
+    "Warsaw": {
+        "longitude": 21.0,
+        "latitude": 52.25
+    },
+    "Xining": {
+        "longitude": 101.767,
+        "latitude": 36.617
+    },
+    "Zurich": {
+        "longitude": 8.55,
+        "latitude": 47.367
+    }
+}

@@ -28,7 +28,7 @@ if __name__ == "__main__":
         "info": [(1, 600, 90, 40, 17)]
     }
 
-    gw_file_path = "../gw_amazon.txt"  #
+    gw_file_path = "../old_code/gw_amazon.txt"  #
     lr = 10
     K_T = 1
     C_T = 2

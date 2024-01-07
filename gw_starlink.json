@@ -1,0 +1,770 @@
+{
+    "Lekki,NG": {
+        "longitude": 3.58773389218748,
+        "latitude": 6.44952617548687
+    },
+    "Ballinspittle,IE": {
+        "longitude": -8.58805,
+        "latitude": 51.64498
+    },
+    "Elfordstown,IE": {
+        "longitude": -8.17416,
+        "latitude": 51.9532
+    },
+    "IsleofMan,UK": {
+        "longitude": -4.49728,
+        "latitude": 54.13909
+    },
+    "Goonhilly,UK": {
+        "longitude": -5.18143,
+        "latitude": 50.04964
+    },
+    "ChalfontGrove,UK": {
+        "longitude": -0.57577,
+        "latitude": 51.61549
+    },
+    "Wherstead,UK": {
+        "longitude": 1.14354,
+        "latitude": 52.019224
+    },
+    "Hoo,UK": {
+        "longitude": 0.573512,
+        "latitude": 51.419024
+    },
+    "Woodwalton,UK": {
+        "longitude": -0.219117,
+        "latitude": 52.404967
+    },
+    "MornHill,UK": {
+        "longitude": -1.263883,
+        "latitude": 51.060168
+    },
+    "Fawley,UK": {
+        "longitude": -1.337705,
+        "latitude": 50.823297
+    },
+    "Villenaved\u2019Ornon,FR": {
+        "longitude": -0.53738,
+        "latitude": 44.78096
+    },
+    "AlfouvardeCima,PT": {
+        "longitude": -9.28217,
+        "latitude": 38.86851
+    },
+    "Lepe,ES": {
+        "longitude": -7.21348,
+        "latitude": 37.2556
+    },
+    "VillarejodeSalvanes,ES": {
+        "longitude": -3.2869,
+        "latitude": 40.16758
+    },
+    "Ibi,ES": {
+        "longitude": -0.6007,
+        "latitude": 38.60842
+    },
+    "Marsala,IT": {
+        "longitude": 12.493115,
+        "latitude": 37.794324
+    },
+    "Foggia,IT": {
+        "longitude": 15.58648,
+        "latitude": 41.50823
+    },
+    "Milano,IT": {
+        "longitude": 9.187329,
+        "latitude": 45.318522
+    },
+    "Frankfurt,DE": {
+        "longitude": 8.47082,
+        "latitude": 50.3298
+    },
+    "Aerzen,DE": {
+        "longitude": 9.32902,
+        "latitude": 52.06003
+    },
+    "WolaKrobowska,PL": {
+        "longitude": 20.92105,
+        "latitude": 51.86417
+    },
+    "Kaunas,LT": {
+        "longitude": 23.84173,
+        "latitude": 54.87947
+    },
+    "Muallim,TR": {
+        "longitude": 29.50939,
+        "latitude": 40.78875
+    },
+    "Akita,JP": {
+        "longitude": 140.06466,
+        "latitude": 39.63828
+    },
+    "Hitachinaka,JP": {
+        "longitude": 140.61372,
+        "latitude": 36.38673
+    },
+    "Otaru,JP": {
+        "longitude": 141.2581,
+        "latitude": 43.17336
+    },
+    "Yamaguchi,JP": {
+        "longitude": 131.55566,
+        "latitude": 34.2171
+    },
+    "Suva,FJ": {
+        "longitude": 178.46767,
+        "latitude": -18.12915
+    },
+    "Awarua,NZ": {
+        "longitude": 168.3778,
+        "latitude": -46.528
+    },
+    "Cromwell,NZ": {
+        "longitude": 169.20483,
+        "latitude": -45.05957
+    },
+    "Hinds,NZ": {
+        "longitude": 171.89014,
+        "latitude": -43.922
+    },
+    "Cleavdon,NZ": {
+        "longitude": 175.05544,
+        "latitude": -36.9897
+    },
+    "TeHana,NZ": {
+        "longitude": 174.51211,
+        "latitude": -36.23673
+    },
+    "Puwera,NZ": {
+        "longitude": 174.30075,
+        "latitude": -35.7935
+    },
+    "BrokenHill,NSW,AU": {
+        "longitude": 141.4411,
+        "latitude": -31.99829
+    },
+    "Toonpan,QLD,AU": {
+        "longitude": 146.87371,
+        "latitude": -19.51872
+    },
+    "Willows.QLD,AU": {
+        "longitude": 147.5025,
+        "latitude": -23.66665
+    },
+    "Pimba,SA,AU": {
+        "longitude": 136.80107,
+        "latitude": -31.2507
+    },
+    "Boorowa,NSW,AU": {
+        "longitude": 148.70558,
+        "latitude": -34.46214
+    },
+    "Wagin,WA,AU": {
+        "longitude": 117.34339,
+        "latitude": -33.30829
+    },
+    "Calrossie,NSW,AU": {
+        "longitude": 150.04031,
+        "latitude": -29.0579
+    },
+    "Merredin,WA,AU": {
+        "longitude": 118.27765,
+        "latitude": -31.49485
+    },
+    "Cataby,WA,AU": {
+        "longitude": 115.61927,
+        "latitude": -30.84826
+    },
+    "KiKi,SA,AU": {
+        "longitude": 139.8174,
+        "latitude": -35.57172
+    },
+    "Torrumbarry,VIC,AU": {
+        "longitude": 144.50011,
+        "latitude": -36.02526
+    },
+    "Cobargo,NSW,AU": {
+        "longitude": 149.8914,
+        "latitude": -36.38863
+    },
+    "Bogantungan,QLD,AU": {
+        "longitude": 147.29126,
+        "latitude": -23.64682
+    },
+    "SpringbrookCreek,NSW,AU": {
+        "longitude": 149.68385,
+        "latitude": -30.43981
+    },
+    "BullaBulling,WA,AU": {
+        "longitude": 120.81962,
+        "latitude": -31.02985
+    },
+    "Canyonleigh,NSW,AU": {
+        "longitude": 150.15013,
+        "latitude": -34.58374
+    },
+    "TeaGardens,NSW,AU": {
+        "longitude": 152.10422,
+        "latitude": -32.59316
+    },
+    "Cama\u00e7ari,BR": {
+        "longitude": -38.28305,
+        "latitude": -12.74832
+    },
+    "Guarapari,BR": {
+        "longitude": -40.40863,
+        "latitude": -20.5578
+    },
+    "Itabora\u00ed,BR": {
+        "longitude": -42.87279,
+        "latitude": -22.69668
+    },
+    "Jo\u00e3oC\u00e2mara,BR": {
+        "longitude": -35.81701,
+        "latitude": -5.54612
+    },
+    "Luz,BR": {
+        "longitude": -45.68113,
+        "latitude": -19.80334
+    },
+    "MontesCarlos,BR": {
+        "longitude": -43.83329,
+        "latitude": -16.68367
+    },
+    "Mossor\u00f3,BR": {
+        "longitude": -37.35373,
+        "latitude": -5.15695
+    },
+    "PassaQuatro,BR": {
+        "longitude": -44.94544,
+        "latitude": -22.34929
+    },
+    "PortoAlegre,BR": {
+        "longitude": -51.12088,
+        "latitude": -29.9842
+    },
+    "PresidentePrudente,BR": {
+        "longitude": -51.47411,
+        "latitude": -22.1461
+    },
+    "RioNegro,BR": {
+        "longitude": -49.79286,
+        "latitude": -26.08857
+    },
+    "SantanadeParna\u00edba,BR": {
+        "longitude": -46.94226,
+        "latitude": -23.45641
+    },
+    "S\u00e3oGon\u00e7alodoAmarante,BR": {
+        "longitude": -39.10287,
+        "latitude": -3.67468
+    },
+    "Surubim,BR": {
+        "longitude": -35.78008,
+        "latitude": -7.85393
+    },
+    "Uruguaiana,BR": {
+        "longitude": -56.52698,
+        "latitude": -29.76549
+    },
+    "Manaus,BR": {
+        "longitude": -59.99778,
+        "latitude": -2.92674
+    },
+    "FaldadelCarmen,AR": {
+        "longitude": -64.461,
+        "latitude": -31.52249
+    },
+    "PuertoMontt,CL": {
+        "longitude": -73.02337,
+        "latitude": -41.48657
+    },
+    "PuertoSaavedra,CL": {
+        "longitude": -73.39724,
+        "latitude": -38.81476
+    },
+    "SanClemente,CL": {
+        "longitude": -71.3569,
+        "latitude": -35.55593
+    },
+    "SantaElena,CL": {
+        "longitude": -71.2582,
+        "latitude": -29.99974
+    },
+    "Caldera,CL": {
+        "longitude": -70.78797,
+        "latitude": -27.02
+    },
+    "Noviciado,CL": {
+        "longitude": -70.88325,
+        "latitude": -33.39272
+    },
+    "PuntaArenas,CL": {
+        "longitude": -70.85045,
+        "latitude": -52.93974
+    },
+    "Greenville,PA": {
+        "longitude": -80.3332222222222,
+        "latitude": 41.4335555555556
+    },
+    "Merrillan,WI": {
+        "longitude": -90.8142777777778,
+        "latitude": 44.4063333333333
+    },
+    "FortLauderdale,FL": {
+        "longitude": -80.1930833333333,
+        "latitude": 26.1908611111111
+    },
+    "Lawrence,KS": {
+        "longitude": -95.1493888888889,
+        "latitude": 39.0138888888889
+    },
+    "Norcross,GA": {
+        "longitude": -84.1979722222222,
+        "latitude": 33.9549722222222
+    },
+    "NewBraunfels,TX": {
+        "longitude": -98.0507777777778,
+        "latitude": 29.7840555555556
+    },
+    "Redmond,WA|E-band": {
+        "longitude": -122.035305555556,
+        "latitude": 47.6962777777778
+    },
+    "McGregor,TX": {
+        "longitude": -97.4381388888889,
+        "latitude": 31.4049166666667
+    },
+    "Conrad,MT": {
+        "longitude": -111.945277777778,
+        "latitude": 48.2033055555556
+    },
+    "Loring,ME": {
+        "longitude": -67.9195277777778,
+        "latitude": 46.9149166666667
+    },
+    "Hawthorne,CA": {
+        "longitude": -118.328111111111,
+        "latitude": 33.9175
+    },
+    "Kalama,WA": {
+        "longitude": -122.808222222222,
+        "latitude": 46.0389722222222
+    },
+    "Arbuckle,CA": {
+        "longitude": -122.06,
+        "latitude": 39.057
+    },
+    "Beekmantown,NY": {
+        "longitude": -73.48,
+        "latitude": 44.7899722222222
+    },
+    "Charleston,OR": {
+        "longitude": -124.383988095715,
+        "latitude": 43.2477104876074
+    },
+    "Panaca,NV": {
+        "longitude": -114.692694444444,
+        "latitude": 37.7836388888889
+    },
+    "BocaChica,TX": {
+        "longitude": -97.18275,
+        "latitude": 25.9906944444444
+    },
+    "LitchfieldCT": {
+        "longitude": -73.3540277777778,
+        "latitude": 41.5450277777778
+    },
+    "Warren,MO": {
+        "longitude": -91.1160277777778,
+        "latitude": 38.6351666666667
+    },
+    "Nemaha,NE": {
+        "longitude": -95.8152777777778,
+        "latitude": 40.3336666666667
+    },
+    "Manistique,MI": {
+        "longitude": -86.4835833333333,
+        "latitude": 45.9086111111111
+    },
+    "SlopeCounty,ND": {
+        "longitude": -103.114583333333,
+        "latitude": 46.4083888888889
+    },
+    "CassCounty,ND": {
+        "longitude": -97.4088888888889,
+        "latitude": 47.1516944444444
+    },
+    "SandersonTX": {
+        "longitude": -102.89,
+        "latitude": 30.194
+    },
+    "Springer,OK": {
+        "longitude": -97.2131666666667,
+        "latitude": 34.2685
+    },
+    "Butte,MT": {
+        "longitude": -112.513194444444,
+        "latitude": 45.9240555555556
+    },
+    "Colburn,ID": {
+        "longitude": -116.439333333333,
+        "latitude": 48.34525
+    },
+    "Hitterdal,MN": {
+        "longitude": -96.2580277777778,
+        "latitude": 46.9789166666667
+    },
+    "Tionesta,CA": {
+        "longitude": -121.329972222222,
+        "latitude": 41.644
+    },
+    "Baxley,GA": {
+        "longitude": -82.2689722222222,
+        "latitude": 31.6821666666667
+    },
+    "Robertsdale,AL": {
+        "longitude": -87.646,
+        "latitude": 30.567
+    },
+    "Roll,AZ": {
+        "longitude": -113.798055555556,
+        "latitude": 32.8155
+    },
+    "Vernon,UT": {
+        "longitude": -112.354722222222,
+        "latitude": 40.0762222222222
+    },
+    "Inman,KS": {
+        "longitude": -97.9219722222222,
+        "latitude": 38.229
+    },
+    "PuntaGorda,FL": {
+        "longitude": -81.7620277777778,
+        "latitude": 27.0196666666667
+    },
+    "TracyCity,TN": {
+        "longitude": -85.666,
+        "latitude": 35.19725
+    },
+    "Gaffney,SC": {
+        "longitude": -81.7330833333333,
+        "latitude": 34.9853055555556
+    },
+    "Kuparuk,AK": {
+        "longitude": -148.941194444444,
+        "latitude": 70.3176666666667
+    },
+    "Dumas,TX": {
+        "longitude": -102.031861111111,
+        "latitude": 35.8079722222222
+    },
+    "Mandale,NC": {
+        "longitude": -79.2248888888889,
+        "latitude": 35.8953611111111
+    },
+    "Robbins,CA": {
+        "longitude": -121.707055555556,
+        "latitude": 38.875
+    },
+    "Wise,NC": {
+        "longitude": -78.1733888888889,
+        "latitude": 36.4706388888889
+    },
+    "Hamshire,TX": {
+        "longitude": -94.3123333333333,
+        "latitude": 29.8598611111111
+    },
+    "Marcell,MN": {
+        "longitude": -93.6925277777778,
+        "latitude": 47.5931666666667
+    },
+    "Lockport,NY": {
+        "longitude": -78.7551111111111,
+        "latitude": 43.1665555555556
+    },
+    "Hillman,MI": {
+        "longitude": -83.9004166666667,
+        "latitude": 45.07325
+    },
+    "Broadview,IL": {
+        "longitude": -87.8588888888889,
+        "latitude": 41.8548888888889
+    },
+    "Lunenberg,VT": {
+        "longitude": -71.7318333333333,
+        "latitude": 44.4120277777778
+    },
+    "Sullivan,Maine": {
+        "longitude": -68.224,
+        "latitude": 44.5309722222222
+    },
+    "Fairbanks,AK": {
+        "longitude": -147.500222222222,
+        "latitude": 64.8051666666667
+    },
+    "Rolette,ND": {
+        "longitude": -99.8105277777778,
+        "latitude": 48.6603611111111
+    },
+    "Ketchikan,AK": {
+        "longitude": -131.718988888889,
+        "latitude": 55.3737
+    },
+    "Nome,AK": {
+        "longitude": -165.428305555556,
+        "latitude": 64.5035
+    },
+    "Kenansville,FL": {
+        "longitude": -81.0304861111111,
+        "latitude": 27.8760055555556
+    },
+    "Elbert,CO": {
+        "longitude": -93.8908611111111,
+        "latitude": 45.0916388888889
+    },
+    "Molokai,HI": {
+        "longitude": -157.063944444444,
+        "latitude": 21.1093333333333
+    },
+    "Frederick,MD": {
+        "longitude": -77.4366388888889,
+        "latitude": 39.3969722222222
+    },
+    "Columbus,OH": {
+        "longitude": -82.7607777777778,
+        "latitude": 40.061
+    },
+    "Ponce,PR": {
+        "longitude": -66.5478361111111,
+        "latitude": 18.0619777777778
+    },
+    "Tumon,GU": {
+        "longitude": 144.805194444444,
+        "latitude": 13.5028055555556
+    },
+    "ToaBaja,PR": {
+        "longitude": -66.1920861111111,
+        "latitude": 18.4310555555556
+    },
+    "DesMoines,IA": {
+        "longitude": -93.8258055555555,
+        "latitude": 41.5413055555556
+    },
+    "NorthBend,WA": {
+        "longitude": -121.762333333333,
+        "latitude": 47.4823888888889
+    },
+    "Angola,IN": {
+        "longitude": -84.974,
+        "latitude": 41.6355277777778
+    },
+    "Cheyenne,WY": {
+        "longitude": -104.902416666667,
+        "latitude": 41.1270833333333
+    },
+    "Quincy,WA": {
+        "longitude": -119.889138888889,
+        "latitude": 47.2378055555556
+    },
+    "Charleston,SC": {
+        "longitude": -80.0382305555556,
+        "latitude": 33.0602944444444
+    },
+    "Boydton,VA": {
+        "longitude": -78.3757222222222,
+        "latitude": 36.6941944444444
+    },
+    "Hillsboro,TX": {
+        "longitude": -97.06325,
+        "latitude": 32.0044722222222
+    },
+    "MtAyr,IN": {
+        "longitude": -87.2953611111111,
+        "latitude": 40.9264444444444
+    },
+    "Olympia,WA": {
+        "longitude": -122.813527777778,
+        "latitude": 46.9155277777778
+    },
+    "Richardson,TX": {
+        "longitude": -96.7125555555556,
+        "latitude": 32.9654166666667
+    },
+    "TheDalles,OR": {
+        "longitude": -121.203666666667,
+        "latitude": 45.6306111111111
+    },
+    "WichitaFalls,TX": {
+        "longitude": -98.6041111111111,
+        "latitude": 33.85225
+    },
+    "SanAntonio,TX": {
+        "longitude": -98.8072777777778,
+        "latitude": 29.4115555555556
+    },
+    "Murrieta,CA": {
+        "longitude": -117.179638888889,
+        "latitude": 33.5321666666667
+    },
+    "Anchorage,AK": {
+        "longitude": -149.876888888889,
+        "latitude": 61.1858611111111
+    },
+    "Bellingham,WA": {
+        "longitude": -122.448583333333,
+        "latitude": 48.774
+    },
+    "Anderson,SC|E-band": {
+        "longitude": -82.6708333333333,
+        "latitude": 34.4446944444444
+    },
+    "Blountsville,AL|E-band": {
+        "longitude": -86.5785277777778,
+        "latitude": 34.0984444444444
+    },
+    "Adelanto,CA|E-band": {
+        "longitude": -117.454555555556,
+        "latitude": 34.6023888888889
+    },
+    "Arlington,OR|E-band": {
+        "longitude": -120.174777777778,
+        "latitude": 45.6255277777778
+    },
+    "Arvin,CA|E-band": {
+        "longitude": -118.878361111111,
+        "latitude": 35.1620555555556
+    },
+    "Brunswick,ME|E-band": {
+        "longitude": -69.9234444444445,
+        "latitude": 43.8960833333333
+    },
+    "Clinton,IL|E-band": {
+        "longitude": -88.8736666666667,
+        "latitude": 40.1764722222222
+    },
+    "Elkton,MD|E-band": {
+        "longitude": -75.9049166666667,
+        "latitude": 39.6283888888889
+    },
+    "Marshall,TX|E-band": {
+        "longitude": -94.4303055555556,
+        "latitude": 32.53225
+    },
+    "PortMatilda,PA|E-band": {
+        "longitude": -77.9959444444444,
+        "latitude": 40.8061944444444
+    },
+    "Prosser,WA|E-band": {
+        "longitude": -119.684,
+        "latitude": 46.1268611111111
+    },
+    "Roberts,WI|E-band": {
+        "longitude": -92.5160277777778,
+        "latitude": 44.9410277777778
+    },
+    "Romulus,NY|E-band": {
+        "longitude": -76.8633055555556,
+        "latitude": 42.7881111111111
+    },
+    "Savanna,OK|E-band": {
+        "longitude": -95.8765,
+        "latitude": 34.7893055555556
+    },
+    "Sheffield,IL|E-band": {
+        "longitude": -89.7433055555556,
+        "latitude": 41.3612222222222
+    },
+    "CaboSanLucas,MX": {
+        "longitude": -109.92577,
+        "latitude": 22.91283
+    },
+    "Caleta,DO": {
+        "longitude": -69.66174,
+        "latitude": 18.45398
+    },
+    "Charcas,MX": {
+        "longitude": -100.97838,
+        "latitude": 23.2263
+    },
+    "ElMarques,MX": {
+        "longitude": -100.33556,
+        "latitude": 20.76082
+    },
+    "Evanston,WY": {
+        "longitude": -110.842611111111,
+        "latitude": 41.0925
+    },
+    "LlanoGrande,MX": {
+        "longitude": -99.58115,
+        "latitude": 19.25892
+    },
+    "Marathon,ON,CA": {
+        "longitude": -86.3745279,
+        "latitude": 48.7253692
+    },
+    "Mazahua,MX": {
+        "longitude": -94.96423,
+        "latitude": 16.60965
+    },
+    "Merida,MX": {
+        "longitude": -89.64396,
+        "latitude": 21.00722
+    },
+    "Monterey,MX": {
+        "longitude": -100.30188,
+        "latitude": 25.77016
+    },
+    "Pe\u00f1uelas,MX": {
+        "longitude": -102.27531,
+        "latitude": 21.73139
+    },
+    "Saguenay,QC,CA": {
+        "longitude": -70.9088518,
+        "latitude": 48.3136647
+    },
+    "SambroCreek,NS,CA": {
+        "longitude": -63.6131209,
+        "latitude": 44.4645332
+    },
+    "SantiagodelosCaballeros,DO": {
+        "longitude": -70.72656,
+        "latitude": 19.48096
+    },
+    "StJohns,NL,CA": {
+        "longitude": -52.7754993,
+        "latitude": 47.560921
+    },
+    "Tapachula,MX": {
+        "longitude": -92.36717,
+        "latitude": 14.7862
+    },
+    "Villahermosa,MX": {
+        "longitude": -92.93282,
+        "latitude": 18.04083
+    },
+    "Benkelman,NE|E-band": {
+        "longitude": -101.51025,
+        "latitude": 40.1049444444444
+    },
+    "Savannah,TN|E-band": {
+        "longitude": -88.0613055555555,
+        "latitude": 35.1595
+    },
+    "Surrency,GA|E-band": {
+        "longitude": -82.2697222222222,
+        "latitude": 31.6828611111111
+    },
+    "Atlanta,GA|E-band": {
+        "longitude": -84.45325,
+        "latitude": 33.8955833333333
+    },
+    "York,PA|E-band": {
+        "longitude": -76.7230277777778,
+        "latitude": 39.9691111111111
+    },
+    "Brewster,WA-TT&C": {
+        "longitude": -119.701138888889,
+        "latitude": 48.1486111111111
+    }
+}

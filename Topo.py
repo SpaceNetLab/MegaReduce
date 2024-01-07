@@ -1,5 +1,6 @@
 from Constellation_model import *
 from utils import *
+import json
 
 
 # Heaven and earth fusion network, a time of constellations + all stations
@@ -29,14 +30,10 @@ class IntegratedNetwork:
         return fin_topology, k_max
 
     def read_gw_file(self):
-        gw_file = open(self.gw_file_path, "r")
-        line = gw_file.readline()
         gw_dict = dict()
-        while line:
-            line_stripe = line.strip()
-            gw, gw_longitude, gw_latitude = line_stripe.split(" ")
-            gw_dict[gw] = (float(gw_longitude.strip()), float(gw_latitude.strip()))
-            line = gw_file.readline()
-        gw_file.close()
+        with open('./gw_amazon.json', 'r') as json_file:
+            locations_data = json.load(json_file)
+            for gw, location in locations_data.items():
+                gw_dict[gw] = (float(location['longitude']), float(location['latitude']))
 
         return gw_dict

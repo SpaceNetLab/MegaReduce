@@ -4,7 +4,7 @@ import multiprocessing
 from datetime import datetime
 import os
 from itertools import starmap
-
+import json
 """
 # After modification, the function can exit in time, which means that if in the time slice, 
 the number of paths between a communication pair is found to not meet the minimum requirements, then exit immediately, 
@@ -189,49 +189,27 @@ if __name__ == "__main__":
 
     # given the constellation info in dict
     # each item in info list is one shell in constellation
-    # (Shell number, altitude, orbital inclination, number of orbits, number of satellites per orbit)
+    # (shell number, altitude, orbital inclination, number of orbits, number of satellites per orbit)
+    with open('configuration.json', 'r') as file:
+        data = json.load(file)
 
-    init_con = {  # Amazon Kuiper by default
-        "name": "init_con",
-        "info": [(1, 630, 51.9, 34, 34),
-                 (2, 610, 42, 36, 36),
-                 (3, 590, 33, 28, 28)]
-    }
 
-    gw_file_path = "./gw_amazon.txt"  #
-    lr = 3  # delay constraints,The hop count of the optional path should be less than the value multiplied by the shortest hop count
+    init_con = data['init_con']
+    gw_file_path = data['gw_file_path']
+    lr = data['delay_constraint']  # delay constraints,The hop count of the optional path should be less than the value multiplied by the shortest hop count
 
     # Select the geographical location of the communication point, which you can specify. Make them evenly distributed across the globe
-    gs = {"NYC": (-74.0059731, 40.7143528),  # New York City
-          "LA": (-122.4194, 37.7749),  # Los Angeles
-          "BJ": (116.4, 39.9),  # Peking
-          "SY": (150.88, -33.91),  # Sydney
-          "LD": (0.11, 51.5),  # London
-          "JNB": (27.9, -26.13),  # Johannesburg
-          "RIO": (-43.2, -22.95),  # Rio de Janeiro
-          # "HK": (114.25, 22.25),  # Hong kong
-          # "SH": (121.7, 30.8),  # Shanghai
-          "SP": (103.85, 1.3),  # Singapore
-          "DB": (55.3, 25.3),  # Dubai
-          "TK": (139.73, 35.7),  # Tokyo
-          "XDL": (77.2, 38.6),  # New Delhi
-          # "MOS": (37.5, 55.5),  # Moscow
-          # "BY": (-58.4, -34.6),  # Buenos Aires
-          # "BL": (13.04, 52.5),  # Berlin
-          # "PA": (2.3, 48.85),  # Pairs
-          # "WT": (174.8, -41.3),  # Wellington
-          # "TO": (-79.4, 43.7),  # Toronto
-          "CL": (31, 30)  # Cairo
-          }
-
+    gs = data['commu_locations']
     # Survivability requires that the disjoint path between any two communication pairs should not be less than this value
-    K_T = 2
+    K_T = data['survivability']
     shrink_count = 0
     expand_count = 0
 
     con_info = init_con
 
-    file = open("./con_log.txt", "a")
+    iterations = data['iterations']
+
+    file = open("./con_log.log", "a")
 
     while True:
         ret = con_feasibility_check(con_info, gw_file_path, lr, gs, K_T)
@@ -239,7 +217,7 @@ if __name__ == "__main__":
         file.write(con_info["name"] + ":")
         file.write(str(con_info["info"]) + "\n")
         print('finish !', ret, con_info["name"], con_info["info"])
-        if (shrink_count + expand_count) > 10 and ret:
+        if (shrink_count + expand_count) > iterations and ret:
             break
 
         if ret:  # The current constellation passed the inspection, indicating that the current constellation is still large enough to support minimum k and needs to be further reduced
@@ -251,5 +229,3 @@ if __name__ == "__main__":
 
     file.close()
 
-    print(con_info["name"])
-    print(con_info["info"])

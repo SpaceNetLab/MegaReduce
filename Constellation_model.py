@@ -161,7 +161,7 @@ class Constellation:
         # ----------------------------------------------
         # If you need to show stochastic_down being in a cosmic environment, then call this stochastic_down function, randomly destroy the link, and the destruction rate can be adjusted
         # damage_rate = 0.2
-        # stochastic_down(adjacent_matrix, damage_rate)
+        # c(adjacent_matrix, damage_rate)
         # ------------------------------------------------------
 
         # --------------------------------
